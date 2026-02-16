@@ -46,7 +46,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Live Link
-You can click here to visit the websit: [].(https://travel-list-ten-rouge.vercel.app/)
+You can click here to visit the websit: (https://travel-list-ten-rouge.vercel.app/)
 
 ### Code Splitting
 
